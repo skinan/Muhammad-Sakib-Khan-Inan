@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Artificial Intelligence 
+- 🔭 I’m currently working on Applied Machine Learning and Data Driven Analysis for solving real life problems. 
 - 🌱 I’m currently learning Deep Learning, Computer Vision
-- 👯 I’m looking to collaborate on Data Science related researches.
+- 👯 I’m looking to collaborate on Data Science & Applied Machine Learning related researches.
 <!-- - 🤔 I’m looking for help with --> 
 - 💬 Ask me about Neuroscience
 - 📫 How to reach me: mail
