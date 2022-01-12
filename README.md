@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning, Computer Vision
 - 👯 I’m looking to collaborate on Data Science & Applied Machine Learning related researches.
 <!-- - 🤔 I’m looking for help with --> 
-- 💬 Ask me about Neuroscience
+- 💬 Ask me about Machine Learning
 - 📫 How to reach me: mail
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am a philosopher.
