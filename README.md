@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib Khan Inan</h1>
 <h3 align="center">Applied Machine Learning Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skinan&label=Profile%20views&color=0e75b6&style=flat" alt="skinan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=skinan&label=Profile%20views&color=0e75b6&style=flat" alt="skinan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skinan" alt="skinan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skinan" alt="skinan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sakibinan" target="blank"><img src="https://img.shields.io/twitter/follow/sakibinan?logo=twitter&style=for-the-badge" alt="sakibinan" /></a> </p>
 
@@ -35,8 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sakibkhaninan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sakibkhaninan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skinan&show_icons=true&locale=en&layout=compact" alt="skinan" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skinan&show_icons=true&locale=en&layout=compact" alt="skinan" /></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=skinan&show_icons=true&locale=en" alt="skinan" /></p>
+<p>&nbsp;<img center="left" src="https://github-readme-stats.vercel.app/api?username=skinan&show_icons=true&locale=en" alt="skinan" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skinan&" alt="skinan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skinan&" alt="skinan" /></p> -->
