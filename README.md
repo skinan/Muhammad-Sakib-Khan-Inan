@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib Khan Inan</h1>
-<h3 align="center">Applied Machine Learning Researcher</h3>
+<h3 align="center">Applied Machine Learning Researcher & Evangelist</h3>
 
+<h3 align="left">Intro:</h3>
 
 - 🌱 I’m currently learning **Advanced Deep Learning**
 
@@ -13,6 +14,14 @@
 - 📫 How to reach me **sakib.khaninan@gmail.com**
 
 - ⚡ Fun fact **I am a Philosopher**
+
+<h3 align="left">Profile Stats:</h3>
+<div align="center">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=skinan&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=cool" 
+        />
+    </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
