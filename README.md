@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib Khan Inan</h1>
-<h3 align="center">Applied Machine Learning Researcher & Evangelist</h3>
+<h3 align="center">Ph.D. Candidate  at ARC Discovery Project </h3>
 
 <h3 align="left">Intro:</h3>
 
-- 🌱 I’m currently learning **Advanced Deep Learning**
+- 🌱 I’m currently learning **Advanced Deep Learning & Advanced Machine Learning**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Applied Machine Learning & Applied Deep Learning**
 
 - 📝 I regularly write articles on [skinan.medium.com](skinan.medium.com)
 
@@ -18,7 +18,7 @@
 <h3 align="left">Profile Stats:</h3>
 <div align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=skinan&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=cool" 
+        <img src="https://github-readme-stats.vercel.app/api?username=skinan&count_private=true&hide_border=false&include_all_commits=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" 
         />
     </p>
 </div>
