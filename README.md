@@ -15,13 +15,13 @@
 
 - ⚡ Fun fact **I am a Philosopher**
 
-<h3 align="left">Profile Stats:</h3>
+<!-- <h3 align="left">Profile Stats:</h3>
 <div align="center">
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=skinan&count_private=true&hide_border=false&include_all_commits=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" 
         />
     </p>
-</div>
+</div> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
