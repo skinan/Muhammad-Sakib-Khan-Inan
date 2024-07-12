@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sakib Khan Inan</h1>
-<h3 align="center">Ph.D. Candidate (Applied Machine Learning) </h3>
+<h3 align="center">Ph.D. Candidate (Applied Deep Learning) </h3>
 
 <h3 align="left">Intro:</h3>
 
