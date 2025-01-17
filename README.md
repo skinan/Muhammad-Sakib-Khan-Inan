@@ -3,7 +3,7 @@
 
 <h3 align="left">Intro:</h3>
 
-- 🌱 I’m currently learning **LLMs (Large Language Models)**
+- 🌱 I’m currently working with **LLMs (Large Language Models)**
 
 - 👯 I’m looking to collaborate on research projects / mentoring oppertunity / community driven educational acitvities in the domain of **Applied Machine Learning**
 
